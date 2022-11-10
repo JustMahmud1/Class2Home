@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="boxes" style="display: inline-flex; ">
+        <div id="box1" style="border: 2px solid ; width:100px;height:100px">
+            <p id="1" style="color:black ; font-weight:bold;">Box1</p>
+        </div>
+        <div id="box2" style="border: 2px solid ; width:100px;height:100px">
+            <p id="2" style="color: orange; font-weight:bold;">Box2</p>
+        </div>
+        <div id="box3" style="border: 2px solid ; width:100px;height:100px">
+            <p id="3" style="color:blueviolet;font-weight:bold;">Box3</p>
+        </div>
+    </div>
+    <script>
+        document.getElementById("box1").onclick = function(){
+            document.getElementById("box1").style.backgroundColor = "black"
+            document.getElementById("1").style.color = "white"
+        }
+        document.getElementById("box2").onclick = function(){
+            document.getElementById("box2").style.backgroundColor = "orange"
+            document.getElementById("2").style.color = "white"
+        }
+        document.getElementById("box3").onclick = function(){
+            document.getElementById("box3").style.backgroundColor = "blueviolet"
+            document.getElementById("3").style.color = "white"
+        }
+    </script>
+</body>
+</html>

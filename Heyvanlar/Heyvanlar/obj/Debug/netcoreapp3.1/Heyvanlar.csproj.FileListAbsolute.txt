@@ -1,0 +1,14 @@
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\bin\Debug\netcoreapp3.1\Heyvanlar.exe
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\bin\Debug\netcoreapp3.1\Heyvanlar.deps.json
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\bin\Debug\netcoreapp3.1\Heyvanlar.runtimeconfig.json
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\bin\Debug\netcoreapp3.1\Heyvanlar.runtimeconfig.dev.json
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\bin\Debug\netcoreapp3.1\Heyvanlar.dll
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\bin\Debug\netcoreapp3.1\Heyvanlar.pdb
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\obj\Debug\netcoreapp3.1\Heyvanlar.csproj.AssemblyReference.cache
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\obj\Debug\netcoreapp3.1\Heyvanlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\obj\Debug\netcoreapp3.1\Heyvanlar.AssemblyInfoInputs.cache
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\obj\Debug\netcoreapp3.1\Heyvanlar.AssemblyInfo.cs
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\obj\Debug\netcoreapp3.1\Heyvanlar.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\obj\Debug\netcoreapp3.1\Heyvanlar.dll
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\obj\Debug\netcoreapp3.1\Heyvanlar.pdb
+C:\Users\Mahmud\source\repos\Heyvanlar\Heyvanlar\obj\Debug\netcoreapp3.1\Heyvanlar.genruntimeconfig.cache

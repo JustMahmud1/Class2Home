@@ -1,0 +1,14 @@
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\bin\Debug\netcoreapp3.1\AccessM.Encapsulation.exe
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\bin\Debug\netcoreapp3.1\AccessM.Encapsulation.deps.json
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\bin\Debug\netcoreapp3.1\AccessM.Encapsulation.runtimeconfig.json
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\bin\Debug\netcoreapp3.1\AccessM.Encapsulation.runtimeconfig.dev.json
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\bin\Debug\netcoreapp3.1\AccessM.Encapsulation.dll
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\bin\Debug\netcoreapp3.1\AccessM.Encapsulation.pdb
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\obj\Debug\netcoreapp3.1\AccessM.Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\obj\Debug\netcoreapp3.1\AccessM.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\obj\Debug\netcoreapp3.1\AccessM.Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\obj\Debug\netcoreapp3.1\AccessM.Encapsulation.AssemblyInfo.cs
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\obj\Debug\netcoreapp3.1\AccessM.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\obj\Debug\netcoreapp3.1\AccessM.Encapsulation.dll
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\obj\Debug\netcoreapp3.1\AccessM.Encapsulation.pdb
+C:\Users\Mahmud\source\repos\TupleRecord\TupleRecord\obj\Debug\netcoreapp3.1\AccessM.Encapsulation.genruntimeconfig.cache

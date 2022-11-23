@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessM.Encapsulation", "TupleRecord\AccessM.Encapsulation.csproj", "{6ACADB52-9158-40AF-8AC6-7E959B036296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACADB52-9158-40AF-8AC6-7E959B036296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACADB52-9158-40AF-8AC6-7E959B036296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACADB52-9158-40AF-8AC6-7E959B036296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACADB52-9158-40AF-8AC6-7E959B036296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9448EB3D-44DE-4DD2-BDC4-38121B1073A8}
+	EndGlobalSection
+EndGlobal
